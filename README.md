@@ -13,11 +13,15 @@ I think i won't support SublimeText2, so sorry guys.
 
 Before you use this plugin, you'd better "Add Folder to Project".
 
-First step: press "ctrl+n" in Mac OS X("alt+n" in Windows, "ctrl+n" in Linux),
+####First step: 
+
+press "ctrl+n" in Mac OS X("alt+n" in Windows, "ctrl+n" in Linux),
 
 then a quick panel will list all folders in sidebar.
 
-Second step: if you were launching for the first time,
+####Second step:
+
+if you were launching for the first time,
 
 this step will let you type in the "source" directory of the project,
 
