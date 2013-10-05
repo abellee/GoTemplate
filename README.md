@@ -56,8 +56,8 @@ no any license, just have fun!
 
 FAQ
 ============
-* you can follow me on Twitter: @abellee
-* you can follow me on Sina Weibo: @AbelLee-木子金贝
+* you can follow me on Twitter: [@abellee](http://twitter.com/abellee)
+* you can follow me on Sina Weibo: [@AbelLee-木子金贝](http://weibo.com/abellee)
 
 
 
