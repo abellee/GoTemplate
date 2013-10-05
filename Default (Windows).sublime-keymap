@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["alt+n"],
+		"command": "gotemplate"
+	}
+]
